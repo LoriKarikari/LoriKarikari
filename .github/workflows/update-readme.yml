@@ -1,6 +1,9 @@
 name: Update Github Activity
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '*/30 * * * *'
 
