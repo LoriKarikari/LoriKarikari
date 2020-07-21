@@ -9,9 +9,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com//blitz-js/blitzjs.com/pull/115) in [blitz-js/blitzjs.com](https://github.com//blitz-js/blitzjs.com)
-2. 🎉 Merged PR [#455](https://github.com//iaincollins/next-auth/pull/455) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
-3. ❌ Reopened PR [#455](https://github.com//iaincollins/next-auth/pull/455) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
-4. ❌ Closed PR [#455](https://github.com//iaincollins/next-auth/pull/455) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
-5. 🗣 Commented on [#455](https://github.com//iaincollins/next-auth/issues/455) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
+1. 🗣 Commented on [#90](https://github.com//blitz-js/blitzjs.com/issues/90) in [blitz-js/blitzjs.com](https://github.com//blitz-js/blitzjs.com)
+2. 💪 Opened PR [#115](https://github.com//blitz-js/blitzjs.com/pull/115) in [blitz-js/blitzjs.com](https://github.com//blitz-js/blitzjs.com)
+3. 🎉 Merged PR [#455](https://github.com//iaincollins/next-auth/pull/455) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
+4. ❌ Reopened PR [#455](https://github.com//iaincollins/next-auth/pull/455) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
+5. ❌ Closed PR [#455](https://github.com//iaincollins/next-auth/pull/455) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
 <!--END_SECTION:activity-->
