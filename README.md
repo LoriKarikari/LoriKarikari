@@ -9,9 +9,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com//hashicorp/next-mdx-enhanced/pull/70) in [hashicorp/next-mdx-enhanced](https://github.com//hashicorp/next-mdx-enhanced)
-2. 🗣 Commented on [#479](https://github.com//iaincollins/next-auth/issues/479) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
-3. 🗣 Commented on [#289](https://github.com//blitz-js/blitz/issues/289) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
-4. 🗣 Commented on [#463](https://github.com//iaincollins/next-auth/issues/463) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
-5. 🗣 Commented on [#221](https://github.com//iaincollins/next-auth/issues/221) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
+1. 🗣 Commented on [#511](https://github.com//nextauthjs/next-auth/issues/511) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+2. 🎉 Merged PR [#511](https://github.com//nextauthjs/next-auth/pull/511) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+3. 💪 Opened PR [#70](https://github.com//hashicorp/next-mdx-enhanced/pull/70) in [hashicorp/next-mdx-enhanced](https://github.com//hashicorp/next-mdx-enhanced)
+4. 🗣 Commented on [#479](https://github.com//iaincollins/next-auth/issues/479) in [iaincollins/next-auth](https://github.com//iaincollins/next-auth)
+5. 🗣 Commented on [#289](https://github.com//blitz-js/blitz/issues/289) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
 <!--END_SECTION:activity-->
