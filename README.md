@@ -10,9 +10,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com//blitz-js/blitzjs.com/issues/142) in [blitz-js/blitzjs.com](https://github.com//blitz-js/blitzjs.com)
-2. 🗣 Commented on [#950](https://github.com//blitz-js/blitz/issues/950) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
-3. 🗣 Commented on [#949](https://github.com//blitz-js/blitz/issues/949) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
-4. ❗️ Opened issue [#3292](https://github.com//prisma/prisma/issues/3292) in [prisma/prisma](https://github.com//prisma/prisma)
-5. 🗣 Commented on [#511](https://github.com//nextauthjs/next-auth/issues/511) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+1. ❗️ Closed issue [#565](https://github.com//nextauthjs/next-auth/issues/565) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+2. 🗣 Commented on [#142](https://github.com//blitz-js/blitzjs.com/issues/142) in [blitz-js/blitzjs.com](https://github.com//blitz-js/blitzjs.com)
+3. 🗣 Commented on [#950](https://github.com//blitz-js/blitz/issues/950) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
+4. 🗣 Commented on [#949](https://github.com//blitz-js/blitz/issues/949) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
+5. ❗️ Opened issue [#3292](https://github.com//prisma/prisma/issues/3292) in [prisma/prisma](https://github.com//prisma/prisma)
 <!--END_SECTION:activity-->
