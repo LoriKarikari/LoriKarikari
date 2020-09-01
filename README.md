@@ -10,9 +10,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#605](https://github.com//nextauthjs/next-auth/issues/605) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+1. 🗣 Commented on [#3389](https://github.com//prisma/prisma/issues/3389) in [prisma/prisma](https://github.com//prisma/prisma)
 2. 🗣 Commented on [#605](https://github.com//nextauthjs/next-auth/issues/605) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
-3. 🗣 Commented on [#220](https://github.com//nextauthjs/next-auth/issues/220) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
-4. 🗣 Commented on [#564](https://github.com//nextauthjs/next-auth/issues/564) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
-5. 🗣 Commented on [#602](https://github.com//nextauthjs/next-auth/issues/602) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+3. 🗣 Commented on [#605](https://github.com//nextauthjs/next-auth/issues/605) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+4. 🗣 Commented on [#220](https://github.com//nextauthjs/next-auth/issues/220) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+5. 🗣 Commented on [#564](https://github.com//nextauthjs/next-auth/issues/564) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
 <!--END_SECTION:activity-->
