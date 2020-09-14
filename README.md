@@ -10,9 +10,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#673](https://github.com//nextauthjs/next-auth/pull/673) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
-2. 🗣 Commented on [#673](https://github.com//nextauthjs/next-auth/issues/673) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
-3. 🎉 Merged PR [#668](https://github.com//nextauthjs/next-auth/pull/668) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
-4. 🗣 Commented on [#668](https://github.com//nextauthjs/next-auth/issues/668) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
-5. 🎉 Merged PR [#669](https://github.com//nextauthjs/next-auth/pull/669) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+1. 🗣 Commented on [#671](https://github.com//nextauthjs/next-auth/issues/671) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+2. ❗️ Closed issue [#66](https://github.com//nextauthjs/next-auth/issues/66) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+3. 🗣 Commented on [#666](https://github.com//nextauthjs/next-auth/issues/666) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+4. 🎉 Merged PR [#673](https://github.com//nextauthjs/next-auth/pull/673) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+5. 🗣 Commented on [#673](https://github.com//nextauthjs/next-auth/issues/673) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
 <!--END_SECTION:activity-->
