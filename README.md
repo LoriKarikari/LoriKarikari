@@ -10,9 +10,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com//blitz-js/blitz/issues/289) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
-2. ❗️ Closed issue [#763](https://github.com//blitz-js/blitz/issues/763) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
-3. 🗣 Commented on [#763](https://github.com//blitz-js/blitz/issues/763) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
-4. ❗️ Opened issue [#1](https://github.com//Streamers-Workshop/passport-trovo.js/issues/1) in [Streamers-Workshop/passport-trovo.js](https://github.com//Streamers-Workshop/passport-trovo.js)
-5. 🗣 Commented on [#674](https://github.com//nextauthjs/next-auth/issues/674) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+1. 🗣 Commented on [#700](https://github.com//nextauthjs/next-auth/issues/700) in [nextauthjs/next-auth](https://github.com//nextauthjs/next-auth)
+2. 🗣 Commented on [#289](https://github.com//blitz-js/blitz/issues/289) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
+3. ❗️ Closed issue [#763](https://github.com//blitz-js/blitz/issues/763) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
+4. 🗣 Commented on [#763](https://github.com//blitz-js/blitz/issues/763) in [blitz-js/blitz](https://github.com//blitz-js/blitz)
+5. ❗️ Opened issue [#1](https://github.com//Streamers-Workshop/passport-trovo.js/issues/1) in [Streamers-Workshop/passport-trovo.js](https://github.com//Streamers-Workshop/passport-trovo.js)
 <!--END_SECTION:activity-->
