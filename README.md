@@ -10,9 +10,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#721](https://github.com/nextauthjs/next-auth/issues/721) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#179](https://github.com/blitz-js/blitzjs.com/issues/179) in [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com)
-3. ❗️ Opened issue [#1191](https://github.com/blitz-js/blitz/issues/1191) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-4. 💪 Opened PR [#197](https://github.com/OtacilioN/awesome-hacktoberfest-2020/pull/197) in [OtacilioN/awesome-hacktoberfest-2020](https://github.com/OtacilioN/awesome-hacktoberfest-2020)
-5. 🗣 Commented on [#170](https://github.com/blitz-js/blitzjs.com/issues/170) in [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com)
+1. ❌ Closed PR [#203](https://github.com/blitz-js/blitzjs.com/pull/203) in [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com)
+2. ❌ Closed PR [#204](https://github.com/blitz-js/blitzjs.com/pull/204) in [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com)
+3. ❗️ Closed issue [#721](https://github.com/nextauthjs/next-auth/issues/721) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#179](https://github.com/blitz-js/blitzjs.com/issues/179) in [blitz-js/blitzjs.com](https://github.com/blitz-js/blitzjs.com)
+5. ❗️ Opened issue [#1191](https://github.com/blitz-js/blitz/issues/1191) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
 <!--END_SECTION:activity-->
