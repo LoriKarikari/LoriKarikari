@@ -8,9 +8,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#545](https://github.com/nextauthjs/next-auth/issues/545) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ❗️ Closed issue [#536](https://github.com/nextauthjs/next-auth/issues/536) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. ❗️ Closed issue [#851](https://github.com/nextauthjs/next-auth/issues/851) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. ❗️ Closed issue [#309](https://github.com/nextauthjs/next-auth/issues/309) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. ❗️ Closed issue [#670](https://github.com/nextauthjs/next-auth/issues/670) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❗️ Closed issue [#266](https://github.com/nextauthjs/next-auth/issues/266) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. ❗️ Closed issue [#545](https://github.com/nextauthjs/next-auth/issues/545) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. ❗️ Closed issue [#536](https://github.com/nextauthjs/next-auth/issues/536) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. ❗️ Closed issue [#851](https://github.com/nextauthjs/next-auth/issues/851) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. ❗️ Closed issue [#309](https://github.com/nextauthjs/next-auth/issues/309) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
