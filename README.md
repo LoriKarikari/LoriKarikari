@@ -8,9 +8,9 @@
 ### ✨ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/blitz-js/nl.blitzjs.com/pull/18) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
-2. 💪 Opened PR [#17](https://github.com/blitz-js/nl.blitzjs.com/pull/17) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
-3. 💪 Opened PR [#16](https://github.com/blitz-js/nl.blitzjs.com/pull/16) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
-4. 💪 Opened PR [#15](https://github.com/blitz-js/nl.blitzjs.com/pull/15) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
-5. 💪 Opened PR [#14](https://github.com/blitz-js/nl.blitzjs.com/pull/14) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
+1. 🗣 Commented on [#18](https://github.com/blitz-js/nl.blitzjs.com/issues/18) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
+2. 💪 Opened PR [#18](https://github.com/blitz-js/nl.blitzjs.com/pull/18) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
+3. 💪 Opened PR [#17](https://github.com/blitz-js/nl.blitzjs.com/pull/17) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
+4. 💪 Opened PR [#16](https://github.com/blitz-js/nl.blitzjs.com/pull/16) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
+5. 💪 Opened PR [#15](https://github.com/blitz-js/nl.blitzjs.com/pull/15) in [blitz-js/nl.blitzjs.com](https://github.com/blitz-js/nl.blitzjs.com)
 <!--END_SECTION:activity-->
